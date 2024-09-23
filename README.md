@@ -11,3 +11,6 @@ Ideia do jogo fireboy e watergirl
       - 1 botão digital pra alterar o volume (INPUT) 
       - 1 botao digital de pause/play (INPUT) 
 
+<img src="image.png" alt="description" width="300" height="auto">
+
+<img src="image-1.png" alt="description" width="300" height="auto">
